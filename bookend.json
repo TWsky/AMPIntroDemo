@@ -1,0 +1,21 @@
+{
+  "share-providers": {
+    "facebook": true,
+    "twitter": true
+  },
+  "related-articles": {
+    "Know me deeper": [
+      {
+        "title": "My Facebook",
+        "url": "https://www.facebook.com/azure0529",
+        "image": "assets/android.png"
+      },
+      {
+        "title": "My G+",
+        "url": "https://plus.google.com/111020086338064967377",
+        "image": "assets/g+.png"
+      }
+    ]
+  }
+}
+  
